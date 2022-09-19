@@ -6,4 +6,4 @@
 - Interested in Machine Learning & Artificial Intelligence, as well as Web Development
 - Code lover since nine
 
-#### 💬 [Website](https://kareem-elewa.web.app) - [Email](mailto:kareem.elew@gmail.com) - [LinkedIn](www.linkedin.com/in/kareemelewa)
+#### 💬 [Website](https://www.kareem-elewa.web.app) - [Email](mailto:kareem.elew@gmail.com) - [LinkedIn](https://www.linkedin.com/in/kareemelewa)
