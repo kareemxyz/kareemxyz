@@ -4,8 +4,7 @@
 - Originally from Massachusetts, USA
 - Fluent at speaking both English & Arabic
 - Interested in Machine Learning & Artificial Intelligence, as well as Web Development
-- Code lover since nine
-<br>
+- Code lover since nine <br>
 💬 Reach me by email or LinkedIn! kareem.elew@gmail.com | www.linkedin.com/in/kareemelewa
 
 📫 Visit my website: https://kareem-elewa.web.app
