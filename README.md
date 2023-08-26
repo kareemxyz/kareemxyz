@@ -1,9 +1,9 @@
 # Welcome! 👋
 
-⚡ My name is Kareem, and I'm an aspiring Computer Science student from Egypt. Here's some info about me!
+⚡ My name is Kareem, and I'm a Computer Science student at the University of Minnesota. Here's some info about me!
 - Originally from Massachusetts, USA
 - Fluent at speaking both English & Arabic
-- Interested in Machine Learning & Artificial Intelligence, as well as Web Development
-- Coding since I was nine
+- Into all things Machine Learning, Artificial Intelligence, and Web Development
+- Started my coding adventure at the age of nine.
 
 #### 💬 [Website](https://kareem-elewa.web.app) - [Email](mailto:kareem.elew@gmail.com) - [LinkedIn](https://www.linkedin.com/in/kareemelewa)
